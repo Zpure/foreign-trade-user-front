@@ -1,0 +1,29 @@
+{
+  "menus":[
+    {
+      "id": "nav1",
+      "label": "首页",
+      "path": "/website/"
+    },
+    {
+      "id": "nav2",
+      "label": "企业概况",
+      "path": "/website/company"
+    },
+    {
+      "id": "nav3",
+      "label": "产品与服务",
+      "path": "/website/product"
+    },
+    {
+      "id": "nav4",
+      "label": "品牌联盟",
+      "path": "/website/alliance"
+    },
+    {
+      "id": "nav5",
+      "label": "关于我们",
+      "path": "/website/about"
+    }
+  ]
+}
