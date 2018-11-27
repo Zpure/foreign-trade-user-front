@@ -1,14 +1,11 @@
 import request from '../common/js/request'
 
-export const getColumn = params =
->
-{
-  return request({
+export const getColumn = params => {
     return request({
-      url: '/config/column',
-      method: 'get',
+      return request({
+        url: '/config/column',
+        method: 'get',
+      })
     })
-  })
-}
-;
+};
 

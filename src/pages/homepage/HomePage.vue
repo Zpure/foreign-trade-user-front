@@ -6,14 +6,14 @@
 </template>
 
 <script>
-  import MainBanner from './components/Banner'
-  import HomeMain from './components/Main'
+import MainBanner from './components/Banner'
+import HomeMain from './components/Main'
 
-  export default {
-    name: 'HomePage',
-    components: {
-      MainBanner,
-      HomeMain
-    }
+export default {
+  name: 'HomePage',
+  components: {
+    MainBanner,
+    HomeMain
   }
+}
 </script>
